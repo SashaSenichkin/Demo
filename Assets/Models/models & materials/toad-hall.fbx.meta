@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: ccd94928b773a7c4fa1c1fcdd896cce3
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: grass
+    100002: hall
+    100004: head
+    100006: Joint
+    100008: Joint_1
+    100010: Joint_10
+    100012: Joint_10_2
+    100014: Joint_10_Pole
+    100016: Joint_10_Pole_2
+    100018: Joint_11
+    100020: Joint_11_2
+    100022: Joint_12
+    100024: Joint_12_2
+    100026: Joint_12_3
+    100028: Joint_12_4
+    100030: Joint_12_Goal
+    100032: Joint_12_Goal_2
+    100034: Joint_1_2
+    100036: Joint_2
+    100038: Joint_5
+    100040: Joint_5_2
+    100042: Joint_6
+    100044: Joint_6_2
+    100046: Joint_7
+    100048: Joint_7_2
+    100050: Joint_9
+    100052: Joint_9_2
+    100054: Joint_Goal
+    100056: Joint_Goal_2
+    100058: Joint_Goal_3
+    100060: Joint_Goal_4
+    100062: left_hand
+    100064: left_hand_2
+    100066: left_hand_Pole
+    100068: left_leg
+    100070: left_leg_2
+    100072: left_leg_Pole
+    100074: Null
+    100076: right_hand
+    100078: right_hand_2
+    100080: right_hand_Pole
+    100082: right_leg
+    100084: right_leg_2
+    100086: right_leg_Pole
+    100088: shoulders
+    100090: spaine
+    100092: Subdivision_Surface_2
+    100094: toad
+    100096: //RootNode
+    100098: trees
+    400000: grass
+    400002: hall
+    400004: head
+    400006: Joint
+    400008: Joint_1
+    400010: Joint_10
+    400012: Joint_10_2
+    400014: Joint_10_Pole
+    400016: Joint_10_Pole_2
+    400018: Joint_11
+    400020: Joint_11_2
+    400022: Joint_12
+    400024: Joint_12_2
+    400026: Joint_12_3
+    400028: Joint_12_4
+    400030: Joint_12_Goal
+    400032: Joint_12_Goal_2
+    400034: Joint_1_2
+    400036: Joint_2
+    400038: Joint_5
+    400040: Joint_5_2
+    400042: Joint_6
+    400044: Joint_6_2
+    400046: Joint_7
+    400048: Joint_7_2
+    400050: Joint_9
+    400052: Joint_9_2
+    400054: Joint_Goal
+    400056: Joint_Goal_2
+    400058: Joint_Goal_3
+    400060: Joint_Goal_4
+    400062: left_hand
+    400064: left_hand_2
+    400066: left_hand_Pole
+    400068: left_leg
+    400070: left_leg_2
+    400072: left_leg_Pole
+    400074: Null
+    400076: right_hand
+    400078: right_hand_2
+    400080: right_hand_Pole
+    400082: right_leg
+    400084: right_leg_2
+    400086: right_leg_Pole
+    400088: shoulders
+    400090: spaine
+    400092: Subdivision_Surface_2
+    400094: toad
+    400096: //RootNode
+    400098: trees
+    2100000: Mat
+    2300000: grass
+    2300002: hall
+    2300004: trees
+    3300000: grass
+    3300002: hall
+    3300004: trees
+    4300000: hall
+    4300002: trees
+    4300004: grass
+    4300006: Subdivision_Surface_2
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+    13700000: Subdivision_Surface_2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
