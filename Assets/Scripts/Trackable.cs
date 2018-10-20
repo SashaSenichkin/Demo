@@ -7,7 +7,7 @@ public class Trackable : DefaultTrackableEventHandler
     public trackableType myType;
     [SerializeField]private float rotateMult = 1;
     [SerializeField]
-    private float scaleMax = 333;
+    private float scaleMax = 3;
     [SerializeField]
     private float scaleMin = 0.5f;
     Vector2? savedPositionRotate;
