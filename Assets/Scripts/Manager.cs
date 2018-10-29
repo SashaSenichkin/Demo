@@ -16,6 +16,8 @@ public class Manager : MonoBehaviour {
     public static Manager Instance;
     public List<Trackable> AllProxy;
     public GameObject Canvas;
+    public Button DownloadButton;
+    public Button ResetButton;
     private void Start()
     {
         Instance = this;
@@ -38,10 +40,16 @@ public class Manager : MonoBehaviour {
     }
     public void OnTrackableDetect()
     {
+        ResetButton.gameObject.SetActive(true);
+        DownloadButton.interactable = false;
         Canvas.SetActive(true);
     }
     public void OnTrackableLost()
     {
         Canvas.SetActive(false);
+    }
+    public void OnDownloadBtnClick()
+    {
+        Application.OpenURL("https://bigreal.ru/markers.html");
     }
 }
